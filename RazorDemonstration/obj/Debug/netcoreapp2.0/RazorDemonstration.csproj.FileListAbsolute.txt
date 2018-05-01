@@ -1,0 +1,44 @@
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.deps.json
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.json
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.dev.json
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.pdb
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfoInputs.cache
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfo.cs
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.pdb
+C:\Users\Jon\Documents\Visual Studio 2017\Projects\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfoInputs.cache
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfo.cs
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.pdb
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.deps.json
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.json
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.dev.json
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\Jon\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.pdb
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.deps.json
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.json
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.dev.json
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.pdb
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfoInputs.cache
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfo.cs
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\user08\Desktop\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.pdb
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.deps.json
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.json
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.runtimeconfig.dev.json
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\bin\Debug\netcoreapp2.0\RazorDemonstration.pdb
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfoInputs.cache
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.AssemblyInfo.cs
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.dll
+C:\Users\user08\Documents\RazorDemonstration\RazorDemonstration\obj\Debug\netcoreapp2.0\RazorDemonstration.pdb

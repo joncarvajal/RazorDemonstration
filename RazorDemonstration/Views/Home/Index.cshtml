@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    var comicTitles = ViewBag.ComicTitles as List<ComicTitle>;
+}
+
+<div class="row" style="margin-top: 20px; margin-bottom: 20px;">
+    <div class="col-xs-6 col-md-6">
+        <a href="#" class="btn btn-danger btn-lg" role="button"><span class="glyphicon glyphicon-picture"> @comicTitles.Count Comic Titles</span></a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-primary list-panel" id="list-panel">
+            <div class="panel-heading list-panel-heading">
+                <h1 class="panel-title list-panel-title">Comic Titles</h1>
+            </div>
+            <div class="panel-body">
+                <table id="assets-data-table"
+                       class="table table-striped table-bordered"
+                       style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Comic Id</th>
+                            <th>Comic Title</th>
+                            <th class="text-center">View</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var comicTitle in comicTitles)
+                        {
+                            <tr>
+                                <td>@comicTitle.ComicTitleId</td>
+                                <td>@comicTitle.Name</td>
+                                <td class="text-center">
+                                    <button id="viewBtn" onclick="location.href='@Url.Action("View", "Home", new { id = comicTitle.ComicTitleId })'" type="button" class="btn btn-primary"><span class="glyphicon glyphicon-edit"></span></button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
